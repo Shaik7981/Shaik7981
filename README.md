@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaik Mohammad Yousuf</h1>
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Your+Professional+Banner+Here" alt="Banner" />
+  <img src="A_professional_and_clean_banner_for_a_GitHub_profi.png" alt="Data Science Banner" />
 </p>
 
 <p align="center">
