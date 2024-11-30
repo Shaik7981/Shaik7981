@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shaik7981/README.md">
+  <a href="https://github.com/Shaik7981/Shaik_Mohammad_yousuf/blob/main/ShaikMohammadYousuf-DataAnalyst-uBJH.pdf">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://www.linkedin.com/in/shaik-mohammad-yousuf-738b24280">
@@ -22,10 +22,12 @@
 
 ## 🔍 About Me
 🎓 **Education**: MBA in Business Analytics (Mohan Babu University)  
-📊 **Passion**: Turning raw data into actionable insights through visualization and analytics.  
-🌟 **Expertise**:
-- 🐍 Python | 🛠 SQL | 📈 Power BI
-- 🧮 Excel, Data Cleaning, EDA, and Statistical Analysis.
+📊 **Passion**: Transforming raw data into actionable insights using analytical tools and techniques.  
+🌟 **Skills**:
+- 🐍 **Python**: For data analysis, machine learning, and automation.
+- 🧮 **SQL**: Expert in writing queries, data extraction, and database management.
+- 📈 **Power BI**: Crafting visually appealing and insightful dashboards for business decision-making.
+- 🧑‍💻 **Excel**: Advanced skills in data cleaning, visualization, and statistical analysis.
 
 ---
 
@@ -49,15 +51,15 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Shaik7981/Inventory-Analysis">Inventory Analysis</a></td>
-    <td>Comprehensive data cleaning, SQL database, and Power BI dashboard for inventory management.</td>
+    <td>Comprehensive data cleaning, SQL database management, and Power BI dashboard for inventory management.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Atulsahoo333/Adventure-Works">Adventure Works Analysis</a></td>
-    <td>E-commerce data analysis using SQL and Power BI for actionable insights.</td>
+    <td>E-commerce data analysis using SQL and Power BI for actionable insights and business decision-making.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/bhagyashreepatidar/Shark_tank">Shark Tank Analysis</a></td>
-    <td>Interactive data visualization and analysis project on investment trends using Streamlit and Python.</td>
+    <td>Interactive data visualization project analyzing investment trends and pitches from the Shark Tank show using Streamlit and Python.</td>
   </tr>
 </table>
 
