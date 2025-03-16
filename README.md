@@ -51,7 +51,7 @@
   </tr>
    <tr>
     <td><a href="https://github.com/Shaik7981/Fake-Job-Postings-Detection">Fake-Job-Postings-Detection</a></td>
-    <td>Data cleaning, SQL database management, and Power BI dashboard for detecting fake job postings using machine learning techniques.</td>
+    <td>Data Data cleaning, SQL database management, and Power BI dashboard for analyzing and identifying fake job postings.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/Shaik7981/Inventory-Analysis">Inventory Analysis</a></td>
