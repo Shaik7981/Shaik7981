@@ -49,6 +49,10 @@
     <th>Repository Name</th>
     <th>Description</th>
   </tr>
+   <tr>
+    <td><a href="https://github.com/Shaik7981/Fake-Job-Postings-Detection">Fake-Job-Postings-Detection</a></td>
+    <td>Comprehensive data cleaning, SQL database management, and Power BI dashboard for Fake-Job-Postings-Detection.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/Shaik7981/Inventory-Analysis">Inventory Analysis</a></td>
     <td>Comprehensive data cleaning, SQL database management, and Power BI dashboard for inventory management.</td>
@@ -61,6 +65,7 @@
     <td><a href="https://github.com/bhagyashreepatidar/Shark_tank">Shark Tank Analysis</a></td>
     <td>Interactive data visualization project analyzing investment trends and pitches from the Shark Tank show using Streamlit and Python.</td>
   </tr>
+  
 </table>
 
 ---
