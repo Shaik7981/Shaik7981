@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaik Mohammad Yousuf</h1>
 <p align="center">
-  <img src="https://github.com/Shaik7981/Shaik_Mohammad_yousuf/blob/main/DALL%C2%B7E%202024-11-30%2017.38.50%20-%20A%20professional%20and%20clean%20banner%20for%20a%20GitHub%20profile%20with%20a%20theme%20of%20data%20science%20and%20analytics.%20The%20banner%20should%20include%20icons%20representing%20Python%2C%20.webp" alt="Banner" />
+  <img src="https://github.com/Shaik7981/Shaik7981/blob/main/DALL%C2%B7E%202025-03-16%2012.44.24%20-%20A%20futuristic%2C%203D-style%20GitHub%20profile%20banner%20with%20a%20data%20analytics%20theme.%20The%20banner%20should%20have%20a%20dark%20blue%20and%20black%20gradient%20background%2C%20featuring%20.webp" alt="Banner" />
 </p>
 
 <p align="center">
