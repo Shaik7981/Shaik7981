@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shaik7981/Shaik_Mohammad_yousuf/blob/main/ShaikMohammadYousuf-DataAnalyst-uBJH.pdf">
+  <a href="https://github.com/Shaik7981/Shaik7981/blob/main/DA_.Shaik_Mohammad_Yousuf_Resume_overleaf.pdf">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
   <a href="https://www.linkedin.com/in/shaik-mohammad-yousuf-738b24280">
